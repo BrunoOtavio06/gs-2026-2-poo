@@ -115,5 +115,5 @@ A revisão foi feita pela equipe: cada integrante leu as classes da própria par
 | Integrante | Contribuição                                                           |
 | ---------- | ---------------------------------------------------------------------- |
 | Bruno      | Configuração do projeto, domínio, exceções, menu, bônus e documentação |
-| João       | Persistência                                                           |
-| Letícia    | Previsões, alertas e testes                                            |
+| João       | Previsões, alertas e testes                                            |
+| Letícia    | Persistência                                                           |
